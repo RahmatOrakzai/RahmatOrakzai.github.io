@@ -1,66 +1,80 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Dr Rahmat Ullah",
+    "label": "Lecturer in Computer Science",
+    "email": "rahmat.ullah@essex.ac.uk",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://RahmatOrakzai.github.io",
+    "summary": "Lecturer in Computer Science at the University of Essex specialising in AI, computational imaging, biomedical signal processing, and machine learning for digital health.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Colchester",
+      "countryCode": "UK",
+      "region": "Essex"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "r3q7Re0AAAAJ",
+        "url": "https://scholar.google.com.pk/citations?user=r3q7Re0AAAAJ&hl=en"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "username": "0000-0001-5162-5164",
+        "url": "https://orcid.org/my-orcid?orcid=0000-0001-5162-5164"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "RahmatOrakzai",
+        "url": "https://github.com/RahmatOrakzai"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "dr-rahmat",
+        "url": "https://www.linkedin.com/in/dr-rahmat/"
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "position": "Lecturer in Computer Science",
+      "company": "University of Essex",
+      "website": "https://www.essex.ac.uk/",
+      "startDate": "2023",
+      "endDate": "Present",
+      "summary": "Teaching and research in software systems, AI, and digital health technologies.",
+      "highlights": [
+        "Lead and deliver undergraduate teaching modules.",
+        "Contribute to interdisciplinary digital health research projects."
+      ]
     }
   ],
-  "skills": [],
+  "education": [
+    {
+      "institution": "University of Edinburgh",
+      "area": "PhD",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "gpa": null,
+      "courses": [
+        "Data-driven imaging pipelines for translational healthcare applications"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Research Areas",
+      "keywords": [
+        "Machine learning for healthcare",
+        "Biomedical signal and image processing",
+        "Microwave and radar sensing",
+        "Computational imaging",
+        "Digital health technologies"
+      ]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],

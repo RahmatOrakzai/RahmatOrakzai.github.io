@@ -1,5 +1,5 @@
 # Basic Site Settings
-locale                   : "en-UK"
+locale                   : "en-GB"
 site_theme               : "default"
 title                    : "Rahmat Ullah"
 title_separator          : "-"

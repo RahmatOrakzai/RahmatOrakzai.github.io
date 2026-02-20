@@ -8,3 +8,4 @@ citation: " Rahmat Ullah, Ikram Asghar, Rab Nawaz, Craig Stacey, Saeed Akbar, Pe
 ---
 
 Use [Google Scholar](https://scholar.google.com/scholar?q=A+real+time+action+scoring+system+for+movement+analysis+and+feedback+in+physical+therapy+using+human+pose+estimation){:target="_blank"}
+highlight: true

@@ -8,7 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-# Publications
 
 My research focuses on **non-invasive biomedical sensing, artificial intelligence for healthcare, and intelligent monitoring systems**, with applications in neurodegenerative disease assessment, computational imaging, and human activity analysis.
 

@@ -1,0 +1,18 @@
+<div style="margin-top:8px; margin-bottom:12px;">
+
+{% if page.pdf %} <a href="{{ page.pdf }}" target="_blank"> <img src="https://img.shields.io/badge/PDF-Download-blue"> </a>
+{% endif %}
+
+{% if page.paperurl %} <a href="{{ page.paperurl }}" target="_blank"> <img src="https://img.shields.io/badge/Publisher-Link-green"> </a>
+{% endif %}
+
+{% if page.doi %} <a href="{{ page.doi }}" target="_blank"> <img src="https://img.shields.io/badge/DOI-Link-orange"> </a>
+{% endif %}
+
+{% if page.code %} <a href="{{ page.code }}" target="_blank"> <img src="https://img.shields.io/badge/Code-GitHub-black"> </a>
+{% endif %}
+
+{% if page.dataset %} <a href="{{ page.dataset }}" target="_blank"> <img src="https://img.shields.io/badge/Dataset-Access-purple"> </a>
+{% endif %}
+
+</div>

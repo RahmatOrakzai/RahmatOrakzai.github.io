@@ -29,9 +29,9 @@ You can also view my publications on
 ## Journal Articles
 
 {% for post in site.publications reversed %}
-{% if post.type == "journal" %}
+{% unless post.venue contains "Conference" %}
 {% include archive-single.html %}
-{% endif %}
+{% endunless %}
 {% endfor %}
 
 ---
@@ -39,7 +39,7 @@ You can also view my publications on
 ## Conference Papers
 
 {% for post in site.publications reversed %}
-{% if post.type == "conference" %}
+{% if post.venue contains "Conference" %}
 {% include archive-single.html %}
 {% endif %}
 {% endfor %}

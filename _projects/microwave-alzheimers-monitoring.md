@@ -44,26 +44,26 @@ Microwave imaging · Computational modelling · Machine learning · Biomedical s
 
 ## PhD Thesis
 
-**Data-driven microwave imaging and processing techniques for monitoring neurodegenerative diseases**
-University of Edinburgh, United Kingdom, 2022
+**Data-driven microwave imaging and processing techniques for monitoring neurodegenerative diseases**  
+University of Edinburgh, United Kingdom, 2022  
 
-🔗 https://era.ed.ac.uk/items/c69550d7-7e72-4a1c-b3b3-d34d2b8cc300
+[📄 View Full Thesis](https://era.ed.ac.uk/items/c69550d7-7e72-4a1c-b3b3-d34d2b8cc300){:target="_blank"}
 
 ---
 
 ## Research Datasets
 
-**Experimental radar data for monitoring brain atrophy progression**
-Biomedical dataset supporting microwave neuroimaging research
+**Experimental radar data for monitoring brain atrophy progression**  
+[🔗 View Dataset](https://doi.org/10.1016/j.dib.2022.108379){:target="_blank"}
 
-**Microwave sensing dataset for non-invasive monitoring of ventricle enlargement due to Alzheimer’s disease**
-Open dataset for disease progression analysis
+**Microwave sensing dataset for non-invasive monitoring of ventricle enlargement due to Alzheimer’s disease**  
+[🔗 View Dataset](https://doi.org/10.1016/j.dib.2023.109006){:target="_blank"}
 
 ---
 
 ## External Project Link
 
-🔗 https://ewireless.eng.ed.ac.uk/processing-and-imaging-techniques-microwave-based-neurodegenerative-diseases-detection
+[🌐 University of Edinburgh eWireless Research Page](https://ewireless.eng.ed.ac.uk/processing-and-imaging-techniques-microwave-based-neurodegenerative-diseases-detection){:target="_blank"}
 
 ---
 

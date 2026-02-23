@@ -4,7 +4,7 @@ title: "Microwave Radar System for Non-Invasive Alzheimer’s Disease Monitoring
 collection: projects
 date: 2023-01-01
 excerpt: "A computational imaging and machine learning framework for monitoring neurodegenerative disease progression using microwave sensing technologies."
-------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 <div style="text-align:center">
 <img src="/images/PathalogicalModel.jpg" alt="Microwave antenna configuration around head model" width="520"/>

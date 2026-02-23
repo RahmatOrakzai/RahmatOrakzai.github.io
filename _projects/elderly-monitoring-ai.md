@@ -15,7 +15,7 @@ The project spans both algorithmic research and applied system development, incl
 
 ## System Overview
 
-![SkyStrm monitoring concept](/images/skystrm.jpg)
+![SkyStrm monitoring concept](/images/skystrm.png)
 
 *Smart monitoring framework for elderly activity recognition and behavioural analysis.*
 

@@ -7,7 +7,7 @@ excerpt: "An AI-driven human pose analysis system for automated movement assessm
 ---
 
 <div style="text-align:center">
-<img src="/images/physio-pipeline.jpg" alt="Physical therapy action scoring pipeline" width="600"/>
+<img src="/images/actionscoring.pdf" alt="Physical therapy action scoring pipeline" width="600"/>
 </div>
 
 *Overview of the proposed vision-based movement analysis and scoring framework.*

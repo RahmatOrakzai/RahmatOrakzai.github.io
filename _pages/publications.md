@@ -38,8 +38,10 @@ You can also view my publications on
 ## Journal Articles
 
 {% for post in site.publications reversed %}
-{% if post.type == "journal" %}
+{% if post.type == "journal" or post.type == nil %}
+{% unless post.type == "thesis" or post.type == "conference" %}
 {% include archive-single.html %}
+{% endunless %}
 {% endif %}
 {% endfor %}
 

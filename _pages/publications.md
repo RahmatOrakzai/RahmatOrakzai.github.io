@@ -4,10 +4,9 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
----
+--------------------
 
 {% include base_path %}
-
 
 My research focuses on **non-invasive biomedical sensing, artificial intelligence for healthcare, and intelligent monitoring systems**, with applications in neurodegenerative disease assessment, computational imaging, and human activity analysis.
 
@@ -26,24 +25,6 @@ You can also view my publications on
 
 ---
 
-## Journal Articles
-
-{% for post in site.publications reversed %}
-{% unless post.venue contains "Conference" %}
-{% include archive-single.html %}
-{% endunless %}
-{% endfor %}
-
----
-
-## Conference Papers
-
-{% for post in site.publications reversed %}
-{% if post.venue contains "Conference" %}
-{% include archive-single.html %}
-{% endif %}
-{% endfor %}
-
 ## 🎓 Thesis
 
 {% for post in site.publications reversed %}
@@ -54,3 +35,20 @@ You can also view my publications on
 
 ---
 
+## Journal Articles
+
+{% for post in site.publications reversed %}
+{% if post.type == "journal" %}
+{% include archive-single.html %}
+{% endif %}
+{% endfor %}
+
+---
+
+## Conference Papers
+
+{% for post in site.publications reversed %}
+{% if post.type == "conference" %}
+{% include archive-single.html %}
+{% endif %}
+{% endfor %}

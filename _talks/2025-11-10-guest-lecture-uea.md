@@ -4,7 +4,7 @@ collection: talks
 type: "invited"
 permalink: /talks/2024-uea-software-testing
 venue: "University of East Anglia"
-date: 2024-11-10
+date: 2025-11-10
 location: "Norwich, United Kingdom"
 ---
 

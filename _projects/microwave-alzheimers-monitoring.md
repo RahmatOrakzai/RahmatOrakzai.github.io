@@ -15,6 +15,10 @@ The work integrates electromagnetic modelling, advanced signal processing, imagi
 
 The research explored pathological changes including brain atrophy, ventricular enlargement, and cerebrospinal fluid variations, and analysed how these structural changes affect microwave signal propagation through biological tissues. The resulting framework supports early diagnosis and scalable digital health monitoring solutions.
 
+![Comparison of DAS and DMAS microwave imaging reconstructions](/images/DMAS%20vs%20DAS.jpg)
+
+*Experimental phantom and reconstructed microwave imaging results comparing conventional Delay-and-Sum (DAS) with the proposed Delay-Multiply-and-Sum (DMAS) algorithm, illustrating enhanced contrast and localisation accuracy*
+
 ---
 
 ### Key Contributions

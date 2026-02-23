@@ -1,5 +1,4 @@
 ---
-
 layout: archive
 title: "Research Projects"
 permalink: /projects/
@@ -12,16 +11,6 @@ My research projects focus on artificial intelligence, computational imaging, an
 
 ---
 
-{% assign projects_sorted = site.projects | sort: "date" | reverse %}
-
-{% for post in projects_sorted %}
-
-## {{ post.title }}
-
-{{ post.excerpt }}
-
-{{ post.content }}
-
----
-
+{% for post in site.projects reversed %}
+  {% include archive-single.html %}
 {% endfor %}

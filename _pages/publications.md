@@ -43,3 +43,14 @@ You can also view my publications on
 {% include archive-single.html %}
 {% endif %}
 {% endfor %}
+
+## 🎓 Thesis
+
+{% for post in site.publications reversed %}
+{% if post.type == "thesis" %}
+{% include archive-single.html %}
+{% endif %}
+{% endfor %}
+
+---
+

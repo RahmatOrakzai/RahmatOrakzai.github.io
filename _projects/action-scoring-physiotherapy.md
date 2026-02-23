@@ -4,7 +4,7 @@ title: "Vision-Based Action Scoring System for Physical Therapy and Rehabilitati
 collection: projects
 date: 2025-01-01
 excerpt: "An AI-driven human pose analysis system for automated movement assessment and rehabilitation feedback developed in collaboration with industry partners."
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 <div style="text-align:center">
 <img src="/images/physio-pipeline.jpg" alt="Physical therapy action scoring pipeline" width="600"/>
@@ -13,7 +13,7 @@ excerpt: "An AI-driven human pose analysis system for automated movement assessm
 *Overview of the proposed vision-based movement analysis and scoring framework.*
 
 <div style="text-align:center">
-<img src="/images/physio-pose.jpg" alt="Pose estimation for rehabilitation movement" width="520"/>
+<img src="/images/physio-pose.png" alt="Pose estimation for rehabilitation movement" width="520"/>
 </div>
 
 *Human pose estimation used for automated assessment of rehabilitation exercises.*

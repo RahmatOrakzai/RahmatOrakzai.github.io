@@ -12,3 +12,8 @@ The system integrates electromagnetic modelling, signal processing, and artifici
 The research contributes to early diagnosis and continuous monitoring approaches for neurological conditions and supports the development of scalable digital health technologies.
 
 **Key Technologies:** Microwave imaging, machine learning, biomedical signal processing, computational modelling.
+<div style="text-align:center">
+<img src="/images/PathalogicalModel.jpg" alt="Microwave head imaging model" width="600"/>
+</div>
+
+*Microwave antenna configuration and computational head model used for non-invasive brain monitoring.*

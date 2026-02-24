@@ -16,7 +16,7 @@ The work integrates thermal modelling, airflow analysis, and predictive algorith
 <div style="text-align:center;">
   <img src="/images/Data centre cooling and airflow configuration.jpg"
        alt="Data centre cooling and airflow configuration"
-       style="width:70%;">
+       style="width:60%;">
 </div>
 
 *Typical data centre cooling configuration showing CRAC units, equipment racks, airflow pathways, and thermal zones.*
@@ -33,11 +33,11 @@ A thermal network approach was proposed to model temperature propagation between
 
   <img src="/images/Thermal network modelling representation.jpg"
        alt="Thermal network modelling representation"
-       style="width:45%; display:inline-block; margin:10px; vertical-align:top;">
+       style="width:40%; display:inline-block; margin:10px; vertical-align:top;">
 
   <img src="/images/Simulation framework architecture.jpg"
        alt="Simulation framework architecture"
-       style="width:45%; display:inline-block; margin:10px; vertical-align:top;">
+       style="width:40%; display:inline-block; margin:10px; vertical-align:top;">
 
 </div>
 

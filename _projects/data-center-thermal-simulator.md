@@ -14,7 +14,7 @@ The work integrates thermal modelling, airflow analysis, and predictive algorith
 ## System Architecture
 
 <div style="text-align:center;">
-  <img src="/images/1-s2.0-S2210537917301907-gr1_lrg.jpg"
+  <img src="/images/Data centre cooling and airflow configuration.jpg"
        alt="Data centre cooling and airflow configuration"
        style="width:70%;">
 </div>
@@ -27,7 +27,7 @@ The study analysed the interaction between computer room air conditioning (CRAC)
 
 ## Thermal Modelling Framework
 
-![Thermal network modelling representation](/images/1-s2.0-S2210537917301907-gr4_lrg.jpg)
+![Thermal network modelling representation](/images/Thermal network modelling representation.jpg)
 
 *Thermal network model illustrating relationships between server nodes, cooling infrastructure, and environmental parameters.*
 
@@ -37,7 +37,7 @@ A thermal network approach was proposed to model temperature propagation between
 
 ## Simulation and Decision Support System
 
-![Simulation framework architecture](/images/1-s2.0-S2210537917301907-gr2_lrg.jpg)
+![Simulation framework architecture](/Simulation framework architecture.jpg)
 
 *Integrated simulation and prediction framework with graphical interface, layout manager, thermal modelling engine, and scheduler.*
 

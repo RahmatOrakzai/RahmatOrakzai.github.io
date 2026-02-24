@@ -21,7 +21,7 @@ The research contributes to the emerging field of **digital rehabilitation and i
 
 *Human pose estimation used for automated assessment of rehabilitation exercises.*
 
-This work was conducted in collaboration with industry partners, including ** [🌐 Agile Kinetic](https://www.agilekinetic.com/){:target="_blank"}**, a digital health company specialising in artificial intelligence solutions for movement analysis and remote clinical monitoring. Their technology focuses on making movement assessment accessible using standard consumer devices and scalable software platforms for healthcare applications.
+This work was conducted in collaboration with industry partners, including [🌐 Agile Kinetic](https://www.agilekinetic.com/){:target="_blank"}, a digital health company specialising in artificial intelligence solutions for movement analysis and remote clinical monitoring. Their technology focuses on making movement assessment accessible using standard consumer devices and scalable software platforms for healthcare applications.
 
 ---
 

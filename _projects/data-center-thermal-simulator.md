@@ -27,19 +27,19 @@ The study analysed the interaction between computer room air conditioning (CRAC)
 
 ## Thermal Modelling Framework
 
-![Thermal network modelling representation](/images/Thermal network modelling representation.jpg)
-
-*Thermal network model illustrating relationships between server nodes, cooling infrastructure, and environmental parameters.*
-
 A thermal network approach was proposed to model temperature propagation between computing nodes and cooling systems. The framework enables prediction of inlet and outlet temperatures under varying workloads and environmental conditions, supporting intelligent thermal management decisions.
 
----
+<div style="text-align:center;">
 
-## Simulation and Decision Support System
+  <img src="/images/Thermal network modelling representation.jpg"
+       alt="Thermal network modelling representation"
+       style="width:70%; margin-bottom:20px;">
 
-![Simulation framework architecture](/Simulation framework architecture.jpg)
+  <img src="/images/Simulation framework architecture.jpg"
+       alt="Simulation framework architecture"
+       style="width:70%;">
 
-*Integrated simulation and prediction framework with graphical interface, layout manager, thermal modelling engine, and scheduler.*
+</div>
 
 A software simulator was implemented with a graphical user interface to allow users to:
 

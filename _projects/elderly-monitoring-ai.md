@@ -1,7 +1,7 @@
 ---
 title: "AI-Driven Activity Recognition and Smart Monitoring for Elderly Care"
 collection: projects
-date: 2024-01-01
+date: 2024-02-03
 excerpt: "Computer vision and intelligent sensing technologies for unobtrusive monitoring of elderly activity and independence in smart care environments."
 ---
 

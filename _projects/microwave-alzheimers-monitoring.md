@@ -2,7 +2,7 @@
 
 title: "Microwave Radar System for Non-Invasive Alzheimer’s Disease Monitoring"
 collection: projects
-date: 2023-01-01
+date: 2022-04-10
 excerpt: "A computational imaging and machine learning framework for monitoring neurodegenerative disease progression using microwave sensing technologies."
 ---
 

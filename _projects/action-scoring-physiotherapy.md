@@ -2,7 +2,7 @@
 
 title: "Vision-Based Action Scoring System for Physical Therapy and Rehabilitation"
 collection: projects
-date: 2025-01-01
+date: 2025-01-10
 excerpt: "An AI-driven human pose analysis system for automated movement assessment and rehabilitation feedback developed in collaboration with industry partners."
 ---
 

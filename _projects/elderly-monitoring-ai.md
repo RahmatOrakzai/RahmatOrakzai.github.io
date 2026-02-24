@@ -9,17 +9,13 @@ This research project investigates the development of **artificial intelligenceâ
 
 The work integrates computer vision, machine learning, and intelligent sensing technologies to detect behavioural patterns, monitor daily activities, and identify deviations that may indicate health risks or functional decline. The research aims to enable scalable and unobtrusive monitoring solutions for care homes and residential environments.
 
-The project spans both algorithmic research and applied system development, including real-world smart care prototypes and deployment-oriented architectures.
-
----
-
-## System Overview
-
 <div style="text-align: center;">
   <img src="/images/skystrm.png" alt="SkyStrm monitoring concept" width="40%">
 </div>
 
 *Smart monitoring framework for elderly activity recognition and behavioural analysis.*
+
+The project spans both algorithmic research and applied system development, including real-world smart care prototypes and deployment-oriented architectures.
 
 ---
 

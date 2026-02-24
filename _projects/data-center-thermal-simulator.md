@@ -29,15 +29,15 @@ The study analysed the interaction between computer room air conditioning (CRAC)
 
 A thermal network approach was proposed to model temperature propagation between computing nodes and cooling systems. The framework enables prediction of inlet and outlet temperatures under varying workloads and environmental conditions, supporting intelligent thermal management decisions.
 
-<div style="text-align:center;">
+<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
 
   <img src="/images/Thermal network modelling representation.jpg"
        alt="Thermal network modelling representation"
-       style="width:70%; margin-bottom:20px;">
+       style="width:45%;">
 
   <img src="/images/Simulation framework architecture.jpg"
        alt="Simulation framework architecture"
-       style="width:70%;">
+       style="width:45%;">
 
 </div>
 

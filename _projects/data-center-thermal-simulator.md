@@ -13,7 +13,11 @@ The work integrates thermal modelling, airflow analysis, and predictive algorith
 
 ## System Architecture
 
-![Data centre cooling and airflow configuration](/images/1-s2.0-S2210537917301907-gr1_lrg.jpg)
+<div style="text-align:center;">
+  <img src="/images/1-s2.0-S2210537917301907-gr1_lrg.jpg"
+       alt="Data centre cooling and airflow configuration"
+       style="width:70%;">
+</div>
 
 *Typical data centre cooling configuration showing CRAC units, equipment racks, airflow pathways, and thermal zones.*
 

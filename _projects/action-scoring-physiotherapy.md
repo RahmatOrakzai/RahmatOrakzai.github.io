@@ -7,11 +7,7 @@ excerpt: "An AI-driven human pose analysis system for automated movement assessm
 ---
 
 
-<div style="text-align:center">
-<img src="/images/physio-pose.png" alt="Pose estimation for rehabilitation movement" width="520"/>
-</div>
 
-*Human pose estimation used for automated assessment of rehabilitation exercises.*
 
 This project investigates the development of an **artificial intelligence-based system for automated movement analysis and feedback** in physical therapy and rehabilitation settings using computer vision and human pose estimation technologies.
 
@@ -19,7 +15,13 @@ The framework extracts body keypoints from video sequences, computes joint angle
 
 The research contributes to the emerging field of **digital rehabilitation and intelligent healthcare monitoring**, with potential applications in physiotherapy, sports science, and assistive healthcare technologies.
 
-This work was conducted in collaboration with industry partners, including **Agile Kinetic**, a digital health company specialising in artificial intelligence solutions for movement analysis and remote clinical monitoring. Their technology focuses on making movement assessment accessible using standard consumer devices and scalable software platforms for healthcare applications.
+<div style="text-align:center">
+<img src="/images/physio-pose.png" alt="Pose estimation for rehabilitation movement" width="520"/>
+</div>
+
+*Human pose estimation used for automated assessment of rehabilitation exercises.*
+
+This work was conducted in collaboration with industry partners, including ** [🌐 Agile Kinetic](https://www.agilekinetic.com/){:target="_blank"}**, a digital health company specialising in artificial intelligence solutions for movement analysis and remote clinical monitoring. Their technology focuses on making movement assessment accessible using standard consumer devices and scalable software platforms for healthcare applications.
 
 ---
 

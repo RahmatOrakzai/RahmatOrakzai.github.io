@@ -1,7 +1,7 @@
 ---
 title: "Thermal Modelling and Simulation of Data Centre Infrastructure"
 collection: projects
-date: 2017-01-01
+date: 2017-04-05
 excerpt: "A simulation and predictive modelling framework for analysing thermal behaviour and cooling efficiency in data centre environments."
 ---
 

@@ -48,13 +48,30 @@ I am actively involved in the academic community through editorial leadership, p
 
 ## Peer Review Activity
 
-I serve as a reviewer for a number of peer-reviewed international journals. My peer review record is publicly verifiable via Web of Science:
+I serve as a peer reviewer for leading international journals spanning AI, biomedical engineering, and digital health. Selected journals include:
 
-- [View Peer Review Record on Web of Science](https://www.webofscience.com/wos/op/peer-reviews/summary)
+**IEEE Transactions & Journals**
+- *IEEE Transactions on Computational Imaging*
+- *IEEE Transactions on Intelligent Transportation Systems*
+- *IEEE Transactions on Sustainable Computing*
+- *IEEE Transactions on Cybernetics*
+- *IEEE Sensors Journal*
+- *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*
 
-Journals reviewed for include (but are not limited to):
+**Health & Biomedical Informatics**
+- *Digital Health*
+- *Informatics for Health and Social Care*
+- *Journal of Personalized Medicine*
+- *Diagnostics*
+- *IET Quantum Communication*
 
-- *To be updated — please add journal names here*
+**Multidisciplinary & Applied**
+- *Applied Sciences*
+- *Software: Practice and Experience*
+- *PLOS ONE*
+- *Information*
+
+For a full list, see my [Web of Science peer review record](https://www.webofscience.com/wos/op/peer-reviews/summary) (27 reviews covering 20 manuscripts).
 
 ---
 

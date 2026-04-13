@@ -24,6 +24,14 @@ I am actively involved in the academic community through editorial leadership, p
 
 ## Conference Committee Roles
 
+### IEEE SIME 2026 — Special Session Chair
+**Special Session: "Intelligent Sensing and AI-Driven Digital Systems for Patient Monitoring and Personalised Healthcare"**
+- Venue: Sousse, Tunisia | Dates: 2–4 November 2026
+- Role: Special Session Chair (with Rab Nawaz, University of Essex, and Yasir Javed, Prince Sultan University)
+- Focus: Intelligent sensing, physiological signal processing, and AI for continuous, non-invasive patient monitoring
+- [Conference Website](https://sime-conf.org/special-sessions/)
+- Session details :contentReference[oaicite:0]{index=0}
+
 ### ICCTA 2026 — Track Chair
 **12th International Conference on Computer Technology Applications**
 - Venue: Vienna, Austria | Dates: 17–19 June 2026

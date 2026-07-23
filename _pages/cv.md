@@ -54,6 +54,14 @@ Module leader and supervisor across software engineering, large-scale systems, a
 
 My research interests include healthcare AI, biomedical signal processing, microwave and radar imaging, neurodegenerative disease monitoring, digital health, and smart-home technologies for elderly care.
 
+## Research funding
+
+- **Royal Society–NSFC**, *Enhancing Motor Intention Decoding: A Cross-Cultural Approach* — Co-Investigator, awarded
+- **EPSRC New Investigator Award**, *Model-Aware Beamforming under Heterogeneous Propagation for Microwave Brain Imaging* — Principal Investigator, £441,049, under review
+- Two **Royal Society International Exchanges** applications — one as Principal Investigator and one as Co-Investigator, under review
+
+[View full funding details](/funding/).
+
 [View my publications](/publications/) and [research projects](/projects/).
 
 ## Contact

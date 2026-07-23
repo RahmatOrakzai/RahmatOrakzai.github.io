@@ -42,42 +42,176 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Automatically generated publication statistics */
-.publication-stats {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 0.75rem;
-  margin: 1.5rem 0 2rem;
-}
-
-.publication-stat {
-  padding: 0.9rem 0.75rem;
-  text-align: center;
+/* Automatically generated publication dashboard */
+.publication-dashboard {
+  overflow: hidden;
+  margin: 1.5rem 0 2.25rem;
   background: var(--global-bg-color);
   border: 1px solid var(--global-border-color);
-  border-radius: 0.35rem;
+  border-radius: 0.7rem;
+  box-shadow: 0 0.35rem 1.25rem rgba(0, 0, 0, 0.06);
 }
 
-.publication-stat strong,
-.publication-stat span {
+.publication-dashboard__summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  padding: 1.4rem 1.5rem;
+  color: #fff;
+  background: linear-gradient(125deg, #176b87, #2399a7);
+}
+
+.publication-dashboard__total strong,
+.publication-dashboard__total span,
+.publication-dashboard__latest strong,
+.publication-dashboard__latest span {
   display: block;
 }
 
-.publication-stat strong {
-  color: var(--global-link-color);
-  font-size: 1.55rem;
-  line-height: 1.1;
+.publication-dashboard__eyebrow {
+  margin-bottom: 0.25rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  opacity: 0.86;
 }
 
-.publication-stat span {
-  margin-top: 0.3rem;
-  color: var(--global-text-color-light);
-  font-size: 0.78rem;
+.publication-dashboard__total strong {
+  float: left;
+  margin-right: 0.65rem;
+  font-size: 3rem;
+  line-height: 0.92;
+}
+
+.publication-dashboard__total > span:last-child {
+  max-width: 9rem;
+  padding-top: 0.2rem;
+  font-size: 0.84rem;
   line-height: 1.25;
+  opacity: 0.9;
+}
+
+.publication-dashboard__latest {
+  min-width: 7rem;
+  padding-left: 1.25rem;
+  text-align: right;
+  border-left: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.publication-dashboard__latest span {
+  font-size: 0.7rem;
+  opacity: 0.85;
+}
+
+.publication-dashboard__latest strong {
+  margin-top: 0.15rem;
+  font-size: 1.65rem;
+  line-height: 1;
+}
+
+.publication-dashboard__metrics {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  border-bottom: 1px solid var(--global-border-color);
+}
+
+.publication-metric {
+  padding: 1rem 0.65rem;
+  text-align: center;
+}
+
+.publication-metric + .publication-metric {
+  border-left: 1px solid var(--global-border-color);
+}
+
+.publication-metric strong,
+.publication-metric span {
+  display: block;
+}
+
+.publication-metric strong {
+  color: var(--global-link-color);
+  font-size: 1.45rem;
+  line-height: 1;
+}
+
+.publication-metric span {
+  margin-top: 0.35rem;
+  color: var(--global-text-color-light);
+  font-size: 0.7rem;
+  line-height: 1.2;
+}
+
+.publication-dashboard__timeline {
+  padding: 1.2rem 1.5rem 1.4rem;
+}
+
+.publication-dashboard__timeline h2 {
+  margin: 0 0 1rem;
+  border: 0;
+  font-size: 0.9rem;
+}
+
+.publication-year-chart {
+  display: grid;
+  gap: 0.45rem;
+}
+
+.publication-year-row {
+  display: grid;
+  grid-template-columns: 2.6rem minmax(0, 1fr) 1.4rem;
+  align-items: center;
+  gap: 0.65rem;
+  font-size: 0.72rem;
+}
+
+.publication-year-row__year {
+  color: var(--global-text-color-light);
+  font-variant-numeric: tabular-nums;
+}
+
+.publication-year-row__track {
+  height: 0.48rem;
+  overflow: hidden;
+  background: var(--global-border-color);
+  border-radius: 999px;
+}
+
+.publication-year-row__bar {
+  display: block;
+  height: 100%;
+  min-width: 0.45rem;
+  background: linear-gradient(90deg, #176b87, #35b3ad);
+  border-radius: inherit;
+}
+
+.publication-year-row__count {
+  color: var(--global-text-color);
+  text-align: right;
+  font-variant-numeric: tabular-nums;
 }
 
 @media (max-width: 600px) {
-  .publication-stats {
+  .publication-dashboard__summary {
+    padding: 1.2rem;
+  }
+
+  .publication-dashboard__metrics {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .publication-metric:nth-child(3) {
+    border-left: 0;
+  }
+
+  .publication-metric:nth-child(n + 3) {
+    border-top: 1px solid var(--global-border-color);
+  }
+
+  .publication-dashboard__timeline {
+    padding-right: 1.2rem;
+    padding-left: 1.2rem;
   }
 }

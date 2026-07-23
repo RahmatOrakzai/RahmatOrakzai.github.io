@@ -9,4 +9,5 @@ type: "conference"
 venue: "IEEE International RF and Microwave Conference (RFM), 2020"
 
 citation: "Ullah, R., & Arslan, T. (2020). Detecting pathological changes in the brain due to Alzheimer disease using numerical microwave signal analysis. IEEE International RF and Microwave Conference (RFM)."
+paperurl: "https://doi.org/10.1109/RFM50841.2020.9344758"
 ---

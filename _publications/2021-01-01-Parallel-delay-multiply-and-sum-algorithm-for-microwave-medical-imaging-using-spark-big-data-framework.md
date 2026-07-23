@@ -7,6 +7,7 @@ venue: "Algorithms"
 type: "journal"
 project: microwave-alzheimers
 citation: " Rahmat Ullah, Tughrul Arslan &quot;Parallel delay multiply and sum algorithm for microwave medical imaging using spark big data framework.&quot; Algorithms, 2021."
+paperurl: "https://doi.org/10.3390/a14050157"
 ---
 
 Use [Google Scholar](https://scholar.google.com/scholar?q=Parallel+delay+multiply+and+sum+algorithm+for+microwave+medical+imaging+using+spark+big+data+framework){:target="_blank"}

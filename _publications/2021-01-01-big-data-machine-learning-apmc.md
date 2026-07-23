@@ -9,4 +9,5 @@ type: "conference"
 venue: "IEEE Asia-Pacific Microwave Conference (APMC), 2021"
 
 citation: "Ullah, R., Saied, I., & Arslan, T. (2021). Big Data-Machine Learning Processing of Recorded Radiofrequency Physiological and Pathological Measurements to Predict the Progression of Alzheimer’s Disease. IEEE APMC."
+paperurl: "https://doi.org/10.1109/APMC52720.2021.9662036"
 ---

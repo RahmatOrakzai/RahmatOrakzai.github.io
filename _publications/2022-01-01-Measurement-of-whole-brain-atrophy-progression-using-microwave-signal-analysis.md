@@ -7,6 +7,7 @@ venue: "Biomedical Signal Processing and Control"
 type: "journal"
 project: microwave-alzheimers
 citation: " Rahmat Ullah, Imran Saied, Tughrul Arslan &quot;Measurement of whole-brain atrophy progression using microwave signal analysis.&quot; Biomedical Signal Processing and Control, 2022."
+paperurl: "https://doi.org/10.1016/j.bspc.2021.103083"
 ---
 
 Use [Google Scholar](https://scholar.google.com/scholar?q=Measurement+of+whole-brain+atrophy+progression+using+microwave+signal+analysis){:target="_blank"}

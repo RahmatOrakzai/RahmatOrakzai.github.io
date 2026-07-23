@@ -9,4 +9,5 @@ type: "conference"
 venue: "IEEE International Symposium on Circuits and Systems (ISCAS), 2021"
 
 citation: "Saied, I., Arslan, T., Ullah, R., Liu, C., & Wang, F. (2021). Hardware accelerator for wearable and portable radar-based microwave breast imaging systems. IEEE ISCAS."
+paperurl: "https://doi.org/10.1109/ISCAS51556.2021.9401407"
 ---

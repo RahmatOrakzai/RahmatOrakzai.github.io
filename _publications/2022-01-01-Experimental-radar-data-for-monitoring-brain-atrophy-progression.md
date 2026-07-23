@@ -5,6 +5,7 @@ permalink: /publication/2022-01-01-Experimental-radar-data-for-monitoring-brain-
 date: 2022-01-01
 venue: "Data in brief"
 citation: " Rahmat Ullah, Imran Saied, Tughrul Arslan &quot;Experimental radar data for monitoring brain atrophy progression.&quot; Data in brief, 2022."
+paperurl: "https://doi.org/10.1016/j.dib.2022.108379"
 ---
 
 Use [Google Scholar](https://scholar.google.com/scholar?q=Experimental+radar+data+for+monitoring+brain+atrophy+progression){:target="_blank"}

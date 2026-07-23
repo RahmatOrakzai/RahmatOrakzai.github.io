@@ -5,6 +5,7 @@ permalink: /publication/2024-01-01-Electroencephalography-longitudinal-markers-o
 date: 2024-01-01
 venue: "Biomedicines"
 citation: " Rab Nawaz, Ho Suen, Rahmat Ullah, Mariel Purcell, Shannon Diggin, Euan McCaughey, Aleksandra Vuckovic &quot;Electroencephalography longitudinal markers of central neuropathic pain intensity in spinal cord injury: a home-based pilot study.&quot; Biomedicines, 2024."
+paperurl: "https://doi.org/10.3390/biomedicines12122751"
 ---
 
 Use [Google Scholar](https://scholar.google.com/scholar?q=Electroencephalography+longitudinal+markers+of+central+neuropathic+pain+intensity+in+spinal+cord+injury:+a+home-based+pilot+study){:target="_blank"}

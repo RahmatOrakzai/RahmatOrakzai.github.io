@@ -5,6 +5,7 @@ permalink: /publication/2018-01-01-Simulator-for-modeling-analysis-and-visualiza
 date: 2018-01-01
 venue: "Sustainable Computing: Informatics and Systems"
 citation: " Rahmat Ullah, Naveed Ahmad, Saif Malik, Saeed Akbar, Adeel Anjum &quot;Simulator for modeling, analysis, and visualizations of thermal status in data centers.&quot; Sustainable Computing: Informatics and Systems, 2018."
+paperurl: "https://doi.org/10.1016/j.suscom.2017.12.005"
 ---
 
 Use [Google Scholar](https://scholar.google.com/scholar?q=Simulator+for+modeling,+analysis,+and+visualizations+of+thermal+status+in+data+centers){:target="_blank"}

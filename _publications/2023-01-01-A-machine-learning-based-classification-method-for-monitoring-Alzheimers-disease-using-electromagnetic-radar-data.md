@@ -7,6 +7,7 @@ venue: "IEEE Transactions on Microwave Theory and Techniques"
 type: "journal"
 project: microwave-alzheimers
 citation: " Rahmat Ullah, Yinhuan Dong, Tughrul Arslan, Siddharthan Chandran \"A machine learning-based classification method for monitoring Alzheimer’s disease using electromagnetic radar data.\" IEEE Transactions on Microwave Theory and Techniques, 2023."
+paperurl: "https://doi.org/10.1109/TMTT.2023.3245665"
 
 highlight: true
 ---

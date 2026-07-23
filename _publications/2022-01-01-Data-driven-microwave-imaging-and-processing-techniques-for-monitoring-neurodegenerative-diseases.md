@@ -8,7 +8,6 @@ type: "thesis"
 highlight: true
 
 venue: "PhD Thesis, University of Edinburgh, United Kingdom"
-type: "thesis"
 
 paperurl: "https://era.ed.ac.uk/items/c69550d7-7e72-4a1c-b3b3-d34d2b8cc300"
 

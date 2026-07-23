@@ -8,5 +8,6 @@ venue: "Frontiers in Oncology"
 type: "journal"
 
 citation: "Latif, S., Brohi, S., Ahmad, J., Alqhatani, A., Alshehri, M., Al Mazroa, A., Ullah, R., et al. (2025). Explainable AI in medical imaging: an interpretable and collaborative federated learning model for brain tumor classification. Frontiers in Oncology."
+paperurl: "https://doi.org/10.3389/fonc.2025.1535478"
 
 ---

@@ -5,6 +5,7 @@ permalink: /publication/2026-01-01-The-intersection-of-artificial-intelligence-a
 date: 2026-01-01
 venue: "Artificial Intelligence Review"
 citation: " Muhammad Abrar, Sohail Khalid, Rahmat Ullah,  others &quot;The intersection of artificial intelligence and assistive technologies in the diagnosis and intervention of mental health conditions.&quot; Artificial Intelligence Review, 2026."
+paperurl: "https://doi.org/10.1007/s10462-025-11447-9"
 ---
 
 Use [Google Scholar](https://scholar.google.com/scholar?q=The+intersection+of+artificial+intelligence+and+assistive+technologies+in+the+diagnosis+and+intervention+of+mental+health+conditions){:target="_blank"}

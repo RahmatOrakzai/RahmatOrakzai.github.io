@@ -3,6 +3,7 @@
 title: "A Simulator for Analysis, Modeling and Visualization of Thermal Status in Data Center"
 collection: publications
 date: 2017-01-01
+published: false
 
 type: "conference"
 

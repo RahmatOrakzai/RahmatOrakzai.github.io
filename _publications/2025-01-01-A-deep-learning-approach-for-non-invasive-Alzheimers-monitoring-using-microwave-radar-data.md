@@ -7,6 +7,7 @@ venue: "Neural Networks"
 type: "journal"
 project: microwave-alzheimers
 citation: " Xin Chen, Deze Zeng, Rahmat Ullah, Rab Nawaz, Jiafeng Xu, Tughrul Arslan,  others &quot;A deep learning approach for non-invasive Alzheimer’s monitoring using microwave radar data.&quot; Neural Networks, 2025."
+paperurl: "https://doi.org/10.1016/j.neunet.2024.106778"
 ---
 
 Use [Google Scholar](https://scholar.google.com/scholar?q=A+deep+learning+approach+for+non-invasive+Alzheimer’s+monitoring+using+microwave+radar+data){:target="_blank"}

@@ -30,7 +30,6 @@ I am actively involved in the academic community through editorial leadership, p
 - Role: Special Session Chair (with Rab Nawaz, University of Essex, and Yasir Javed, Prince Sultan University)
 - Focus: Intelligent sensing, physiological signal processing, and AI for continuous, non-invasive patient monitoring
 - [Conference Website](https://sime-conf.org/special-sessions/)
-- Session details :contentReference[oaicite:0]{index=0}
 
 ### ICCTA 2026 — Track Chair
 **12th International Conference on Computer Technology Applications**

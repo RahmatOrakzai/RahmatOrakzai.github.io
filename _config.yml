@@ -25,8 +25,8 @@ author:
   email            : "rahmat.ullah@essex.ac.uk"
 
   # Academic profiles
-  googlescholar    : "https://scholar.google.com.pk/citations?user=r3q7Re0AAAAJ&hl=en"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-5162-5164"
+  googlescholar    : "https://scholar.google.com/citations?user=r3q7Re0AAAAJ&hl=en"
+  orcid            : "https://orcid.org/0000-0001-5162-5164"
   researchgate     : "https://www.researchgate.net/profile/Rahmat-Ullah-8"
   scopus           :
   pubmed           :
@@ -67,6 +67,16 @@ bing_site_verification   :
 # Analytics
 analytics:
   provider               : false
+
+social:
+  type                    : Person
+  name                    : "Dr Rahmat Ullah"
+  links:
+    - "https://www.essex.ac.uk/people/ULLAH03304/Rahmat-Ullah"
+    - "https://scholar.google.com/citations?user=r3q7Re0AAAAJ&hl=en"
+    - "https://orcid.org/0000-0001-5162-5164"
+    - "https://www.linkedin.com/in/dr-rahmat/"
+    - "https://github.com/RahmatOrakzai"
 
 collections:
   teaching:

@@ -11,7 +11,7 @@ author_profile: true
 My research focuses on **non-invasive biomedical sensing, artificial intelligence for healthcare, and intelligent monitoring systems**, with applications in neurodegenerative disease assessment, computational imaging, and human activity analysis.
 
 You can also view my publications on
-[Google Scholar](https://scholar.google.com.pk/citations?user=r3q7Re0AAAAJ)
+[Google Scholar](https://scholar.google.com/citations?user=r3q7Re0AAAAJ&hl=en)
 
 ---
 

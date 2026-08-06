@@ -13,6 +13,16 @@ I am actively involved in the academic community through editorial leadership, p
 
 ## Guest Editorial Roles
 
+### *Medinformatics* - Special Issue Guest Editor
+**Special Issue: "Computational Intelligence and Digital Biomarkers for Early Detection of Cognitive Decline and Dementia"**
+- Publisher: Bon View Publishing, *Medinformatics* (eISSN 3029-1321)
+- Role: Guest Editor (with Lead Guest Editor Dr Zulfiqar Ali, University of Essex)
+- Scope: Digital biomarkers, multimodal sensing, explainable AI, privacy-preserving computation, and clinical validation for early dementia detection
+- Submission deadline: 5 February 2027
+- [View Special Issue](https://ojs.bonviewpress.com/index.php/MEDIN/SI_CIDBEDCDD)
+
+---
+
 ### MDPI *Systems* — Special Issue Guest Editor
 **Special Issue: "Decision Making in Software Project Management"**
 - Publisher: MDPI (ISSN 2079-8954) — Indexed in ESCI (Web of Science), Scopus

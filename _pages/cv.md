@@ -43,6 +43,8 @@ Module leader and supervisor across software engineering, large-scale systems, a
 
 ## Professional service
 
+- Guest Editor, *Medinformatics* special issue, “Computational Intelligence and Digital Biomarkers for Early Detection of Cognitive Decline and Dementia”
+
 - Guest Editor, MDPI *Systems* special issue, “Decision Making in Software Project Management”
 - Track Chair, Computational Intelligence and AI Techniques, ICCTA 2026
 - Programme Committee Member, ICNCDA 2026

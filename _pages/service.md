@@ -80,6 +80,25 @@ I serve as a peer reviewer for leading international journals spanning AI, biome
 
 For a full list, see my [Web of Science peer review record](https://www.webofscience.com/wos/op/peer-reviews/summary) (27 reviews covering 20 manuscripts).
 
+### Conference Peer Reviewing
+
+**Current and Forthcoming Assignments**
+
+- Invited Reviewer, *2027 International Joint Conference on Neural Networks (IJCNN 2027)*
+- Invited Reviewer, *21st International Conference on Emerging Technologies (ICET 2026)*
+- Invited Reviewer, *IEEE International Conference on Smart Innovations for Medicine and Engineering (SIME 2026)*
+- Invited Reviewer, *1st International Conference on Synergies in Next-Generation Cyber-Physical Systems (SNGC 2026)*
+
+**Completed Reviewing**
+
+- Reviewer, *International Joint Conference on Neural Networks (IJCNN 2025)*
+- Reviewer, *Intelligent Methods, Systems, and Applications (IMSA 2025)*
+- Reviewer, *19th IEEE International Conference on Open Source Systems and Technologies (ICOSST 2025)*
+- Reviewer, *10th International Conference on Engineering and Emerging Technologies (ICEET 2024)*
+- Reviewer, *29th International Conference on Automation and Computing (ICAC 2024)*
+- Reviewer, *Intelligent Methods, Systems, and Applications (IMSA 2024)*
+- Reviewer, *10th International Conference on Computer Technology Applications (ICCTA 2024)*
+
 ---
 
 *For collaboration or editorial enquiries, please get in touch via [email](mailto:rahmat.ullah@essex.ac.uk).*

@@ -94,20 +94,20 @@ For a full list, see my [Web of Science peer review record](https://www.webofsci
 
 **Current and Forthcoming Assignments**
 
-- Invited Reviewer, *2027 International Joint Conference on Neural Networks (IJCNN 2027)*
-- Invited Reviewer, *21st International Conference on Emerging Technologies (ICET 2026)*
-- Invited Reviewer, *IEEE International Conference on Smart Innovations for Medicine and Engineering (SIME 2026)*
-- Invited Reviewer, *1st International Conference on Synergies in Next-Generation Cyber-Physical Systems (SNGC 2026)*
+- Invited Reviewer, [*2027 International Joint Conference on Neural Networks (IJCNN 2027)*](https://ijcnn.org/2027)
+- Invited Reviewer, [*21st International Conference on Emerging Technologies (ICET 2026)*](https://giki.edu.pk/icet-conference-2026/)
+- Invited Reviewer, [*IEEE International Conference on Smart Innovations for Medicine and Engineering (SIME 2026)*](https://sime-conf.org/)
+- Invited Reviewer, [*1st International Conference on Synergies in Next-Generation Cyber-Physical Systems (SNGC 2026)*](https://www.sngc-conf.co.uk/)
 
 **Completed Reviewing**
 
-- Reviewer, *International Joint Conference on Neural Networks (IJCNN 2025)*
-- Reviewer, *Intelligent Methods, Systems, and Applications (IMSA 2025)*
-- Reviewer, *19th IEEE International Conference on Open Source Systems and Technologies (ICOSST 2025)*
-- Reviewer, *10th International Conference on Engineering and Emerging Technologies (ICEET 2024)*
-- Reviewer, *29th International Conference on Automation and Computing (ICAC 2024)*
-- Reviewer, *Intelligent Methods, Systems, and Applications (IMSA 2024)*
-- Reviewer, *10th International Conference on Computer Technology Applications (ICCTA 2024)*
+- Reviewer, [*International Joint Conference on Neural Networks (IJCNN 2025)*](https://2025.ijcnn.org/)
+- Reviewer, [*Intelligent Methods, Systems, and Applications (IMSA 2025)*](https://imsa.msa.edu.eg/)
+- Reviewer, [*19th IEEE International Conference on Open Source Systems and Technologies (ICOSST 2025)*](https://icosst.kics.edu.pk/2025)
+- Reviewer, [*10th International Conference on Engineering and Emerging Technologies (ICEET 2024)*](http://www.iceet.net/)
+- Reviewer, [*29th International Conference on Automation and Computing (ICAC 2024)*](https://cacsuk.co.uk/icac)
+- Reviewer, [*Intelligent Methods, Systems, and Applications (IMSA 2024)*](http://imsa.msa.edu.eg/)
+- Reviewer, [*10th International Conference on Computer Technology Applications (ICCTA 2024)*](http://www.iccta.net/)
 
 ---
 

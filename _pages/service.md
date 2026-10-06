@@ -11,6 +11,16 @@ I am actively involved in the academic community through editorial leadership, p
 
 ---
 
+## Editorial Roles
+
+### *PeerJ Computer Science* — Academic Editor
+
+I have joined *PeerJ Computer Science* as an Academic Editor.
+
+- [View Editorial Board](https://peerj.com/search/?type=editor&journal=cs)
+
+---
+
 ## Guest Editorial Roles
 
 ### *Medinformatics* - Special Issue Guest Editor

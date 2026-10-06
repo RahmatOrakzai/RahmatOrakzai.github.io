@@ -43,6 +43,7 @@ Module leader and supervisor across software engineering, large-scale systems, a
 
 ## Professional service
 
+- Academic Editor, [*PeerJ Computer Science*](https://peerj.com/search/?type=editor&journal=cs)
 - Guest Editor, *Medinformatics* special issue, “Computational Intelligence and Digital Biomarkers for Early Detection of Cognitive Decline and Dementia”
 
 - Guest Editor, MDPI *Systems* special issue, “Decision Making in Software Project Management”

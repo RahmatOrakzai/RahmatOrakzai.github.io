@@ -29,6 +29,8 @@ My research develops artificial intelligence, biomedical signal-processing, and 
 
 ## Current work
 
+I have joined [*PeerJ Computer Science*](https://peerj.com/search/?type=editor&journal=cs) as an Academic Editor.
+
 My current work includes AI-driven biomedical monitoring, intelligent sensing for personalised healthcare, and unobtrusive activity recognition for elderly care. I welcome enquiries from prospective students and collaborators working in biomedical signal processing, microwave imaging, health data, digital health, or machine learning.
 
 ## Selected publications

@@ -31,6 +31,8 @@ My research develops artificial intelligence, biomedical signal-processing, and 
 
 I have joined [*PeerJ Computer Science*](https://peerj.com/search/?type=editor&journal=cs) as an Academic Editor.
 
+I have also been appointed Academic Editor (Associate Editor) of [*Biomedical Informatics and Smart Healthcare*](https://www.icck.org/bish).
+
 My current work includes AI-driven biomedical monitoring, intelligent sensing for personalised healthcare, and unobtrusive activity recognition for elderly care. I welcome enquiries from prospective students and collaborators working in biomedical signal processing, microwave imaging, health data, digital health, or machine learning.
 
 ## Selected publications

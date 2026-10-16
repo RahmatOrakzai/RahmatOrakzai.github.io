@@ -13,6 +13,12 @@ I am actively involved in the academic community through editorial leadership, p
 
 ## Editorial Roles
 
+### *Biomedical Informatics and Smart Healthcare* — Academic Editor (Associate Editor)
+
+I serve as an Academic Editor (Associate Editor) of *Biomedical Informatics and Smart Healthcare*, published by ICCK. My responsibilities include managing submissions in my area of expertise and overseeing the peer review process.
+
+- [Journal Website](https://www.icck.org/bish)
+
 ### *PeerJ Computer Science* — Academic Editor
 
 I have joined *PeerJ Computer Science* as an Academic Editor.

@@ -50,6 +50,14 @@ I have joined *PeerJ Computer Science* as an Academic Editor.
 
 ## Conference Committee Roles
 
+### ICCTA 2027 — Track Chair and Technical Programme Committee Member
+**13th International Conference on Computer Technology Applications**
+
+- Venue: Vienna, Austria | Dates: 2–4 June 2027
+- Role: Track Chair — *Track 2: Computer Applications*; Technical Programme Committee Member
+- Responsibilities: Supporting the peer review process and promoting the conference and track
+- [Conference Website](https://www.iccta.net/)
+
 ### IEEE SIME 2026 — Special Session Chair
 **Special Session: "Intelligent Sensing and AI-Driven Digital Systems for Patient Monitoring and Personalised Healthcare"**
 - Venue: Sousse, Tunisia | Dates: 2–4 November 2026

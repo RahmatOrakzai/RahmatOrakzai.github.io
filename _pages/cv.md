@@ -49,6 +49,7 @@ Module leader and supervisor across software engineering, large-scale systems, a
 
 - Guest Editor, MDPI *Systems* special issue, “Decision Making in Software Project Management”
 - Track Chair, Computational Intelligence and AI Techniques, ICCTA 2026
+- Track Chair, Track 2: Computer Applications, and Technical Programme Committee Member, [ICCTA 2027](https://www.iccta.net/)
 - Programme Committee Member, ICNCDA 2026
 - Scientific Committee Member, AISTEMEDU 2025
 - External Examiner for Software Engineering and Computer Science programmes
